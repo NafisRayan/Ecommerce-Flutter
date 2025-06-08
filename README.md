@@ -31,9 +31,7 @@ This cross-platform e-commerce application provides a seamless shopping experien
 
 **Available on iOS, Android, and Web platforms.**
 
-| Home Screen | Product Details | Profile |
-|-------------|-----------------|---------|
-| ![](./preview/Preview%207.png) | ![](./preview/Preview%203.png) | ![](./preview/Preview%208.png) |
+![](./preview/Preview%203.png)
 
 ## 🛠️ Technology Stack
 
